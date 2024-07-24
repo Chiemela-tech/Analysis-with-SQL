@@ -1,7 +1,7 @@
 ﻿# Analysis-with-SQL
 SQL is key in my journey as a data professional - data analysis, science and engineering.
 
-### 1. Bicycle Analysis 
+### 1. Bicycle Sales Analysis 
 This repository contains SQL codes for exploring a bicycle sales dataset. The scripts provide insights into various aspects of the sales data, including:
 
 * Product availability: The stock levels of various bicycles across different stores are checked. 
